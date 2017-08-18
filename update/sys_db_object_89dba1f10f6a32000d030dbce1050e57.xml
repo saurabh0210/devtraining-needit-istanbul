@@ -9,7 +9,7 @@
         <create_access>false</create_access>
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model>class</extension_model>
+        <extension_model/>
         <is_extendable>false</is_extendable>
         <label>Sh$pwd Enrollment Snapshot</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -32,6 +32,16 @@
         <sys_update_name>sys_db_object_89dba1f10f6a32000d030dbce1050e57</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-05-06 07:00:09</sys_updated_on>
+        <u_empaddress/>
+        <u_empid/>
+        <u_empname/>
+        <u_empnumber/>
+        <u_notes/>
+        <u_orgaddress/>
+        <u_organization/>
+        <u_orgid/>
+        <u_orgname/>
+        <u_status>false</u_status>
         <update_access>false</update_access>
         <user_role/>
         <ws_access>false</ws_access>
